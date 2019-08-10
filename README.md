@@ -22,4 +22,4 @@ A simple crawler to download images from web pages
 
 - Exemple: 
 
-![](exemple.gif)
+![](example_.gif)
